@@ -43,9 +43,6 @@ width="45" /> I'm Himanshu Goswami</h1>
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HimGos&theme=vue" />
 </p>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
 ---
 
 <div align="center">
