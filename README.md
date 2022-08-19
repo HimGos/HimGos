@@ -32,9 +32,6 @@ width="45" /> I'm Himanshu Goswami</h1>
 	<img src="https://activity-graph.herokuapp.com/graph?username=HimGos&theme=minimal"/>
 </p>
 
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimGos&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
@@ -42,6 +39,9 @@ width="45" /> I'm Himanshu Goswami</h1>
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=HimGos&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HimGos&theme=vue" />
 </p>
+
+<h2>Latest Tweets</h2>
+<p><a href="https://twitter.com/Walk_With_Himz"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=Walk_With_Himz&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 ---
 
