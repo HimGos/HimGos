@@ -15,7 +15,7 @@ width="45" /> I'm Himanshu Goswami</h1>
 - 🌱 I’m currently mastering Data Science and Several Python based libraries.
 - 🤔 I’m looking for CodeBuddy for mastering some DS libraries.
 - 💬 Ask me about Advance Python,Tensorflow & MongoDB.
-- ⚡ Fun fact: I spend almost 9+ hours programming & 3 hours playing video games every day.
+- ⚡ Fun fact: I spend almost 6+ hours programming & 3 hours playing video games every day.
 - 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
