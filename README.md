@@ -10,7 +10,7 @@ width="45" /> I'm Himanshu Goswami</h1>
 # 💫 About Me :
 - 💻 Data Scientist & Analyst</b>.
 - 💻 Love to get the most out of data</b>.
-- 🔭 I’m currently building My Capstone Project.
+- 🔭 I’m currently building Machine Learning Project.
 - 🌱 I’m currently mastering Data Science and Several Python based libraries.
 - 🤔 I’m looking for CodeBuddy to create some good projects.
 - 💬 Ask me about Python, Machine Learning. 
