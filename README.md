@@ -13,7 +13,7 @@ width="45" /> I'm Himanshu Goswami</h1>
 - 🔭 I’m currently building Machine Learning Project.
 - 🌱 I’m currently mastering Data Science and Several Python based libraries.
 - 🤔 I’m looking for CodeBuddy to create some good projects.
-- 💬 Ask me about Python, Machine Learning. 
+- 💬 Ask me about Python, Data Analysis, Machine Learning.
 - ⚡ Fun fact: I spend almost 6+ hours programming & 3 hours playing video games every day.
 - 📫 How to reach me: Check social links below.
 
