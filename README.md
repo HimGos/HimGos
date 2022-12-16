@@ -27,6 +27,8 @@ width="45" /> I'm Himanshu Goswami</h1>
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=HimGos&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HimGos&theme=vue" />
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimGos&theme=vue" />
+	
 </p>
 
 <h2>Latest Tweets</h2>
