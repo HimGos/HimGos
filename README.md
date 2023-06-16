@@ -11,7 +11,7 @@ width="45" /> I'm Himanshu Goswami</h1>
 - 💻 Deep Learning Practitioner</b>.
 - 💻 Love to get the most out of data</b>.
 - 🔭 I’m currently practicing various Deep Learning Streams.
-- 🤔 I’m looking for CodeBuddy to create some good projects.
+- 🤔 Working on Multimodal Deep Learning project.
 - 💬 Ask me about Python, Machine Learning, Deep Learning.
 - 📫 How to reach me: Check social links below.
 
@@ -29,9 +29,6 @@ width="45" /> I'm Himanshu Goswami</h1>
 	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimGos&theme=vue" />
 	
 </p>
-
-<h2>Latest Tweets</h2>
-<p><a href="https://twitter.com/Walk_With_Himz"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=Walk_With_Himz&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 ---------
 
